@@ -1,5 +1,5 @@
 # Multimedia-Final-Project Traditional Method
-code is in traditional.ipynb
+code is in traditional.ipynb  
 this code uses Otsu's method to determine the threshold based on the histogram: https://zh.wikipedia.org/zh-tw/%E5%A4%A7%E6%B4%A5%E7%AE%97%E6%B3%95
 ### variables can adjust
 - scaleFactor: magnification multiplier
